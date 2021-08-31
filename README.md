@@ -53,13 +53,17 @@
 * [프로그래머스](https://programmers.co.kr/)
 * [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 * [코드업](https://codeup.kr/)
+* [알고스팟](https://algospot.com/judge/problem/list/)
+* [구름LEVEL](https://level.goorm.io/)
+* [프로젝트 오일러](http://euler.synap.co.kr/)
 
 ### - 해외
 
-* [코드포스](https://codeforces.com/)
-* [탑코더](https://www.topcoder.com/)
-* [릿코드](https://leetcode.com/)
-* [코드셰프](https://www.codechef.com/)
-
-* [앳코더](https://atcoder.jp/)
+* [codeforces(코드포스)](https://codeforces.com/)
+* [topcoder(탑코더)](https://www.topcoder.com/)
+* [leetcode(릿코드)](https://leetcode.com/)
+* [codechef(코드셰프)](https://www.codechef.com/)
+* [atcoder(앳코더)](https://atcoder.jp/)
+* [codility(코딜리티)](https://www.codility.com/) : 외국용 프로그래머스
+* [codewars(코드워즈)](https://www.codewars.com/)
 
