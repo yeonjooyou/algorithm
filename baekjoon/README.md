@@ -51,46 +51,46 @@
 | 39   | 4673      | [셀프 넘버](https://www.acmicpc.net/problem/4673)      | [소스코드](./Python/4673.py)  | [함수](https://www.acmicpc.net/step/5)(2)               |
 | 40   | 1065      | [한수](https://www.acmicpc.net/problem/1065)           | [소스코드](./Python/1065.py)  | [함수](https://www.acmicpc.net/step/5)(3)               |
 
-| 순번 | 문제 번호 | 제목                                                         | 풀이                                   | 비고                                                   |
-| ---- | --------- | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------ |
-| 41   | 11654     | [아스키 코드](https://www.acmicpc.net/problem/11654)         | [소스코드](./baekjoon/Python/11654.py) | [문자열](https://www.acmicpc.net/step/7)(1)            |
-| 42   | 11720     | [숫자의 합](https://www.acmicpc.net/problem/11720)           | [소스코드](./baekjoon/Python/11720.py) | [문자열](https://www.acmicpc.net/step/7)(2)            |
-| 43   | 10809     | [알파벳 찾기](https://www.acmicpc.net/problem/10809)         | [소스코드](./baekjoon/Python/10809.py) | [문자열](https://www.acmicpc.net/step/7)(3)            |
-| 44   | 2675      | [문자열 반복](https://www.acmicpc.net/problem/2675)          | [소스코드](./baekjoon/Python/2675.py)  | [문자열](https://www.acmicpc.net/step/7)(4)            |
-| 45   | 1157      | [단어 공부](https://www.acmicpc.net/problem/1157)            | [소스코드](./baekjoon/Python/1157.py)  | [문자열](https://www.acmicpc.net/step/7)(5)*           |
-| 46   | 1152      | [단어의 개수](https://www.acmicpc.net/problem/1152)          | [소스코드](./baekjoon/Python/1152.py)  | [문자열](https://www.acmicpc.net/step/7)(6)            |
-| 47   | 2908      | [상수](https://www.acmicpc.net/problem/2908)                 | [소스코드](./baekjoon/Python/2908.py)  | [문자열](https://www.acmicpc.net/step/7)(7)            |
-| 48   | 5622      | [다이얼](https://www.acmicpc.net/problem/5622)               | [소스코드](./baekjoon/Python/5622.py)  | [문자열](https://www.acmicpc.net/step/7)(8)*           |
-| 49   | 2941      | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)    | [소스코드](./baekjoon/Python/2941.py)  | [문자열](https://www.acmicpc.net/step/7)(9)*           |
-| 50   | 1316      | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)       | [소스코드](./baekjoon/Python/1316.py)  | [문자열](https://www.acmicpc.net/step/7)(10)           |
-| 51   | 1712      | [손익분기점](https://www.acmicpc.net/problem/1712)           | [소스코드](./baekjoon/Python/1712.py)  | [기본 수학 1](https://www.acmicpc.net/step/8)(1)       |
-| 52   | 2869      | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [소스코드](./baekjoon/Python/2869.py)  | [기본 수학 1](https://www.acmicpc.net/step/8)(4)       |
-| 53   | 10250     | [ACM 호텔](https://www.acmicpc.net/problem/10250)            | [소스코드](./baekjoon/Python/10250.py) | [기본 수학 1](https://www.acmicpc.net/step/8)(5)       |
-| 54   | 10757     | [큰 수 A+B](https://www.acmicpc.net/problem/10757)           | [소스코드](./baekjoon/Python/10757.py) | [기본 수학 1](https://www.acmicpc.net/step/8)(8)       |
-| 55   | 2558      | [A+B - 2](https://www.acmicpc.net/problem/2558)              | [소스코드](./baekjoon/Python/2558.py)  | 연산                                                   |
-| 56   | 10953     | [A+B - 6](https://www.acmicpc.net/problem/10953)             | [소스코드](./baekjoon/Python/10953.py) | 연산                                                   |
-| 57   | 15740     | [A+B - 9](https://www.acmicpc.net/problem/15740)             | [소스코드](./baekjoon/Python/15740.py) | 연산                                                   |
-| 58   | 10039     | [평균 점수](https://www.acmicpc.net/problem/10039)           | [소스코드](./baekjoon/Python/10039.py) |                                                        |
-| 59   | 5543      | [상근날드](https://www.acmicpc.net/problem/5543)             | [소스코드](./baekjoon/Python/5543.py)  |                                                        |
-| 60   | 2475      | [검증수](https://www.acmicpc.net/problem/2475)               | [소스코드](./baekjoon/Python/2475.py)  |                                                        |
-| 61   | 2163      | [초콜릿 자르기](https://www.acmicpc.net/problem/2163)        | [소스코드](./baekjoon/Python/2163.py)  |                                                        |
-| 62   | 3046      | [R2](https://www.acmicpc.net/problem/3046)                   | [소스코드](./baekjoon/Python/3046.py)  |                                                        |
-| 63   | 2455      | [지능형 기차](https://www.acmicpc.net/problem/2455)          | [소스코드](./baekjoon/Python/2455.py)  |                                                        |
-| 64   | 2525      | [오븐 시계](https://www.acmicpc.net/problem/2525)            | [소스코드](./baekjoon/Python/2525.py)  |                                                        |
-| 65   | 2914      | [저작권](https://www.acmicpc.net/problem/2914)               | [소스코드](./baekjoon/Python/2914.py)  |                                                        |
-| 66   | 5086      | [배수와 약수](https://www.acmicpc.net/problem/5086)          | [소스코드](./baekjoon/Python/5086.py)  | [정수론 및 조합론](https://www.acmicpc.net/step/18)(1) |
-| 67   | 2953      | [나는 요리사다](https://www.acmicpc.net/problem/2953)        | [소스코드](./baekjoon/Python/2953.py)  | 리스트 위치반환                                        |
-| 68   | 10886     | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [소스코드](./baekjoon/Python/10886.py) |                                                        |
-| 69   | 2480      | [주사위 세개](https://www.acmicpc.net/problem/2480)          | [소스코드](./baekjoon/Python/2480.py)  |                                                        |
-| 70   | 10156     | [과자](https://www.acmicpc.net/problem/10156)                | [소스코드](./baekjoon/Python/10156.py) |                                                        |
-| 71   | 2845      | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845)  | [소스코드](./baekjoon/Python/2845.py)  |                                                        |
-| 72   | 2420      | [사파리월드](https://www.acmicpc.net/problem/2420)           | [소스코드](./baekjoon/Python/2420.py)  |                                                        |
-| 73   | 2010      | [플러그](https://www.acmicpc.net/problem/2010)               | [소스코드](./baekjoon/Python/2010.py)  | ~~시간초과~~                                           |
-| 74   | 2530      | [인공지능 시계](https://www.acmicpc.net/problem/2530)        | [소스코드](./baekjoon/Python/2530.py)  |                                                        |
-| 75   | 3003      | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [소스코드](./baekjoon/Python/3003.py)  |                                                        |
-| 76   | 5554      | [심부름 가는 길](https://www.acmicpc.net/problem/5554)       | [소스코드](./baekjoon/Python/5554.py)  |                                                        |
-| 77   | 10833     | [사과](https://www.acmicpc.net/problem/10833)                | [소스코드](./baekjoon/Python/10833.py) | 서브태스크                                             |
-| 78   | 5532      | [방학 숙제](https://www.acmicpc.net/problem/5532)            | [소스코드](./baekjoon/Python/5532.py)  |                                                        |
-| 79   | 2506      | [점수계산](https://www.acmicpc.net/problem/2506)             | [소스코드](./baekjoon/Python/2506.py)  | 누적합                                                 |
-| 80   | 5522      | [카드 게임](https://www.acmicpc.net/problem/5522)            | [소스코드](./baekjoon/Python/5522.py)  | 서브태스크                                             |
+| 순번 | 문제 번호 | 제목                                                         | 풀이                          | 비고                                                   |
+| ---- | --------- | ------------------------------------------------------------ | ----------------------------- | ------------------------------------------------------ |
+| 41   | 11654     | [아스키 코드](https://www.acmicpc.net/problem/11654)         | [소스코드](./Python/11654.py) | [문자열](https://www.acmicpc.net/step/7)(1)            |
+| 42   | 11720     | [숫자의 합](https://www.acmicpc.net/problem/11720)           | [소스코드](./Python/11720.py) | [문자열](https://www.acmicpc.net/step/7)(2)            |
+| 43   | 10809     | [알파벳 찾기](https://www.acmicpc.net/problem/10809)         | [소스코드](./Python/10809.py) | [문자열](https://www.acmicpc.net/step/7)(3)            |
+| 44   | 2675      | [문자열 반복](https://www.acmicpc.net/problem/2675)          | [소스코드](./Python/2675.py)  | [문자열](https://www.acmicpc.net/step/7)(4)            |
+| 45   | 1157      | [단어 공부](https://www.acmicpc.net/problem/1157)            | [소스코드](./Python/1157.py)  | [문자열](https://www.acmicpc.net/step/7)(5)*           |
+| 46   | 1152      | [단어의 개수](https://www.acmicpc.net/problem/1152)          | [소스코드](./Python/1152.py)  | [문자열](https://www.acmicpc.net/step/7)(6)            |
+| 47   | 2908      | [상수](https://www.acmicpc.net/problem/2908)                 | [소스코드](./Python/2908.py)  | [문자열](https://www.acmicpc.net/step/7)(7)            |
+| 48   | 5622      | [다이얼](https://www.acmicpc.net/problem/5622)               | [소스코드](./Python/5622.py)  | [문자열](https://www.acmicpc.net/step/7)(8)*           |
+| 49   | 2941      | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)    | [소스코드](./Python/2941.py)  | [문자열](https://www.acmicpc.net/step/7)(9)*           |
+| 50   | 1316      | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)       | [소스코드](./Python/1316.py)  | [문자열](https://www.acmicpc.net/step/7)(10)           |
+| 51   | 1712      | [손익분기점](https://www.acmicpc.net/problem/1712)           | [소스코드](./Python/1712.py)  | [기본 수학 1](https://www.acmicpc.net/step/8)(1)       |
+| 52   | 2869      | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [소스코드](./Python/2869.py)  | [기본 수학 1](https://www.acmicpc.net/step/8)(4)       |
+| 53   | 10250     | [ACM 호텔](https://www.acmicpc.net/problem/10250)            | [소스코드](./Python/10250.py) | [기본 수학 1](https://www.acmicpc.net/step/8)(5)       |
+| 54   | 10757     | [큰 수 A+B](https://www.acmicpc.net/problem/10757)           | [소스코드](./Python/10757.py) | [기본 수학 1](https://www.acmicpc.net/step/8)(8)       |
+| 55   | 2558      | [A+B - 2](https://www.acmicpc.net/problem/2558)              | [소스코드](./Python/2558.py)  | 연산                                                   |
+| 56   | 10953     | [A+B - 6](https://www.acmicpc.net/problem/10953)             | [소스코드](./Python/10953.py) | 연산                                                   |
+| 57   | 15740     | [A+B - 9](https://www.acmicpc.net/problem/15740)             | [소스코드](./Python/15740.py) | 연산                                                   |
+| 58   | 10039     | [평균 점수](https://www.acmicpc.net/problem/10039)           | [소스코드](./Python/10039.py) |                                                        |
+| 59   | 5543      | [상근날드](https://www.acmicpc.net/problem/5543)             | [소스코드](./Python/5543.py)  |                                                        |
+| 60   | 2475      | [검증수](https://www.acmicpc.net/problem/2475)               | [소스코드](./Python/2475.py)  |                                                        |
+| 61   | 2163      | [초콜릿 자르기](https://www.acmicpc.net/problem/2163)        | [소스코드](./Python/2163.py)  |                                                        |
+| 62   | 3046      | [R2](https://www.acmicpc.net/problem/3046)                   | [소스코드](./Python/3046.py)  |                                                        |
+| 63   | 2455      | [지능형 기차](https://www.acmicpc.net/problem/2455)          | [소스코드](./Python/2455.py)  |                                                        |
+| 64   | 2525      | [오븐 시계](https://www.acmicpc.net/problem/2525)            | [소스코드](./Python/2525.py)  |                                                        |
+| 65   | 2914      | [저작권](https://www.acmicpc.net/problem/2914)               | [소스코드](./Python/2914.py)  |                                                        |
+| 66   | 5086      | [배수와 약수](https://www.acmicpc.net/problem/5086)          | [소스코드](./Python/5086.py)  | [정수론 및 조합론](https://www.acmicpc.net/step/18)(1) |
+| 67   | 2953      | [나는 요리사다](https://www.acmicpc.net/problem/2953)        | [소스코드](./Python/2953.py)  | 리스트 위치반환                                        |
+| 68   | 10886     | [0 = not cute / 1 = cute](https://www.acmicpc.net/problem/10886) | [소스코드](./Python/10886.py) |                                                        |
+| 69   | 2480      | [주사위 세개](https://www.acmicpc.net/problem/2480)          | [소스코드](./Python/2480.py)  |                                                        |
+| 70   | 10156     | [과자](https://www.acmicpc.net/problem/10156)                | [소스코드](./Python/10156.py) |                                                        |
+| 71   | 2845      | [파티가 끝나고 난 뒤](https://www.acmicpc.net/problem/2845)  | [소스코드](./Python/2845.py)  |                                                        |
+| 72   | 2420      | [사파리월드](https://www.acmicpc.net/problem/2420)           | [소스코드](./Python/2420.py)  |                                                        |
+| 73   | 2010      | [플러그](https://www.acmicpc.net/problem/2010)               | [소스코드](./Python/2010.py)  | ~~시간초과~~                                           |
+| 74   | 2530      | [인공지능 시계](https://www.acmicpc.net/problem/2530)        | [소스코드](./Python/2530.py)  |                                                        |
+| 75   | 3003      | [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003) | [소스코드](./Python/3003.py)  |                                                        |
+| 76   | 5554      | [심부름 가는 길](https://www.acmicpc.net/problem/5554)       | [소스코드](./Python/5554.py)  |                                                        |
+| 77   | 10833     | [사과](https://www.acmicpc.net/problem/10833)                | [소스코드](./Python/10833.py) | 서브태스크                                             |
+| 78   | 5532      | [방학 숙제](https://www.acmicpc.net/problem/5532)            | [소스코드](./Python/5532.py)  |                                                        |
+| 79   | 2506      | [점수계산](https://www.acmicpc.net/problem/2506)             | [소스코드](./Python/2506.py)  | 누적합                                                 |
+| 80   | 5522      | [카드 게임](https://www.acmicpc.net/problem/5522)            | [소스코드](./Python/5522.py)  | 서브태스크                                             |
 
